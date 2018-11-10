@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/btn_one_scan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/bg_3_white_primary_shape"
+        android:text="@string/barcode_scanner"
+        android:textColor="@color/cl_000000"
+        android:textSize="20sp"
+        android:layout_marginTop="40dp"
+        />
+    <Button
+        android:id="@+id/btn_two_scan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/bg_3_white_primary_shape"
+        android:text="@string/qr_code_scanner"
+        android:textColor="@color/cl_000000"
+        android:textSize="20sp"
+
+        android:layout_marginTop="40dp"
+        />
+
+    <Button
+        android:id="@+id/btn_hardware"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/bg_3_white_primary_shape"
+        android:text="@string/hardware_information"
+        android:textColor="@color/cl_000000"
+        android:textSize="20sp"
+        android:layout_marginTop="40dp"
+        android:visibility="gone"
+        />
+    <Button
+        android:id="@+id/btn_exception"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/bg_3_white_primary_shape"
+        android:text="@string/exception"
+        android:textColor="@color/cl_000000"
+        android:textSize="20sp"
+        android:layout_marginTop="40dp"
+        android:visibility="gone"
+        />
+
+</LinearLayout>

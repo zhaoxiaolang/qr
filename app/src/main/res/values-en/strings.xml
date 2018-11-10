@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZxingScan</string>
+    <string name="barcode_scanner">Barcode scanner</string>
+    <string name="qr_code_scanner">QR code scanner</string>
+    <string name="hardware_information">Hardware information</string>
+    <string name="q_scan_tips">Please aim the camera at the QR code.</string>
+    <string name="b_scan_tips">Please aim the camera at the barcode scanning.</string>
+    <string name="sure">Next</string>
+    <string name="cancel">cancel</string>
+    <string name="result_title">SN</string>
+    <string name="hardware">Hardware information</string>
+    <string name="exception">Exception information</string>
+    <string name="copy">copy</string>
+    <string name="copy_success">Successful copy</string>
+</resources>

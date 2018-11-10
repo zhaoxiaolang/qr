@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C7000A</color>
+    <color name="colorPrimaryDark">#C7000A</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="cl_000000">#000000</color>
+    <color name="cl_white">#ffffff</color>
+    <color name="cl_FF0000">#ff0000</color>
+    <color name="cl_EEEEEE">#eeeeee</color>
+    <color name="transparent">#eeeeee</color>
+    <color name="cl_282828">#282828</color>
+    <color name="cl_8a8a8a">#8a8a8a</color>
+    <color name="tram">#00000000</color>
+    <color name="cl_d4130e">#d4130e</color>
+    <color name="cl_line">#d1d1d1</color>
+</resources>
